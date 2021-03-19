@@ -11,7 +11,7 @@ ___
 - Me gusta cualquier tipo de entretenimiento audiovisual, ya sea series animadas o con actores.
 - Tengo un perro
 - Disfruto explorar nuevos géneros musicales.
-- Tengo una PC medio falopa así que solo juego al LOL y CSGO de vez en cuando xd.
+- Tengo una PC re falopa así que solo juego al LOL y CSGO de vez en cuando xd.
 - Serie favorita: Okupas.
 - Serie animada favorita: Avatar.
 - Pelicula favorita: Pizza, birra, faso.
