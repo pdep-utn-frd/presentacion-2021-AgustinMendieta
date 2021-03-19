@@ -4,6 +4,7 @@
 - Legajo: 11419
 - Carrera: Ing. en Sistemas de Información
 - Edad: 20
+
 ___ 
 ## Descripción:
 - Me gusta tocar la guitarra de vez en cuando
@@ -11,4 +12,8 @@ ___
 - Tengo un perro
 - Disfruto explorar nuevos géneros musicales
 - Tengo una PC medio falopa así que solo juego al LOL y CSGO de vez en cuando xd
+- Serie favorita: Okupas
+- Serie animada favorita: Avatar
+- Pelicula favorita: Pizza, birra, faso
+
 ___ 
